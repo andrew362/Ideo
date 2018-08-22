@@ -232,10 +232,10 @@ main section article p span {
 
 .line-dotted {
     border: none;
-    border-top: 3px dotted #00375c;
+    border-top: 2px dotted #416a85;
     color: #fff;
     background-color: #fff;
-    height: 3px;
+    height: 2px;
     width: 100%;
     margin: 20px 0;
 }
